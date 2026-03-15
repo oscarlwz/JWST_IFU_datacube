@@ -1,3 +1,9 @@
+This is a collection of script used for the paper Liu et al 2026.
+
+To run the scripts, please download all files within this folder.
+
+
+
 Jupyter Notebooks:
 nrs_ifu_template_naturepaper.ipynb is an example to reduce the IFU data cube in this project.
 qso46_pyqsofit_submission.ipynb is used for all analyses and figure production.
